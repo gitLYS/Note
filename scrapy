@@ -17,7 +17,7 @@ DOWNLOADER_MIDDLEWARES = {
     'project_name.middlewares.ProxyMiddleware': 100,
 }
 即可
-安装tor浏览器
+安装tor浏览器 http://www.theonionrouter.com/
 安装polipo，修改/etc/polipo/config设置
 sudo apt-get install polipo
 sudo service polipo start
